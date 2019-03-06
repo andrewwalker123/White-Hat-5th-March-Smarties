@@ -1,0 +1,20 @@
+{
+  "name": "wh-task",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "install": "^0.12.2",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.17",
+    "npm": "^6.8.0"
+  }
+}
